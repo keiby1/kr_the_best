@@ -1,0 +1,10 @@
+C:\Users\lushi\Desktop\kr_the_best-master\курсовая_МИМПРО\курсовая_МИМПРО\bin\Debug\курсовая_МИМПРО.exe
+C:\Users\lushi\Desktop\kr_the_best-master\курсовая_МИМПРО\курсовая_МИМПРО\bin\Debug\курсовая_МИМПРО.pdb
+C:\Users\lushi\Desktop\kr_the_best-master\курсовая_МИМПРО\курсовая_МИМПРО\obj\x86\Debug\курсовая_МИМПРО.csprojResolveAssemblyReference.cache
+C:\Users\lushi\Desktop\kr_the_best-master\курсовая_МИМПРО\курсовая_МИМПРО\obj\x86\Debug\курсовая_МИМПРО.Form1.resources
+C:\Users\lushi\Desktop\kr_the_best-master\курсовая_МИМПРО\курсовая_МИМПРО\obj\x86\Debug\курсовая_МИМПРО.Form2.resources
+C:\Users\lushi\Desktop\kr_the_best-master\курсовая_МИМПРО\курсовая_МИМПРО\obj\x86\Debug\курсовая_МИМПРО.Properties.Resources.resources
+C:\Users\lushi\Desktop\kr_the_best-master\курсовая_МИМПРО\курсовая_МИМПРО\obj\x86\Debug\курсовая_МИМПРО.csproj.GenerateResource.Cache
+C:\Users\lushi\Desktop\kr_the_best-master\курсовая_МИМПРО\курсовая_МИМПРО\obj\x86\Debug\курсовая_МИМПРО.csproj.CoreCompileInputs.cache
+C:\Users\lushi\Desktop\kr_the_best-master\курсовая_МИМПРО\курсовая_МИМПРО\obj\x86\Debug\курсовая_МИМПРО.exe
+C:\Users\lushi\Desktop\kr_the_best-master\курсовая_МИМПРО\курсовая_МИМПРО\obj\x86\Debug\курсовая_МИМПРО.pdb

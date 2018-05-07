@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -41,10 +40,11 @@
             this.Column9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column11 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.указатьDToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.считатьДанныеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.очиститьДанныеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.рассчитатьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.указатьDToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.dToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
@@ -72,22 +72,6 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(601, 237);
             this.dataGridView1.TabIndex = 0;
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.указатьDToolStripMenuItem,
-            this.считатьДанныеToolStripMenuItem,
-            this.очиститьДанныеToolStripMenuItem,
-            this.рассчитатьToolStripMenuItem,
-            this.toolStripMenuItem1,
-            this.dToolStripMenuItem,
-            this.toolStripMenuItem2});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(601, 24);
-            this.menuStrip1.TabIndex = 1;
-            this.menuStrip1.Text = "menuStrip1";
             // 
             // Column1
             // 
@@ -155,6 +139,29 @@
             this.Column11.Name = "Column11";
             this.Column11.Width = 50;
             // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.указатьDToolStripMenuItem,
+            this.считатьДанныеToolStripMenuItem,
+            this.очиститьДанныеToolStripMenuItem,
+            this.рассчитатьToolStripMenuItem,
+            this.toolStripMenuItem1,
+            this.dToolStripMenuItem,
+            this.toolStripMenuItem2});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(601, 24);
+            this.menuStrip1.TabIndex = 1;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // указатьDToolStripMenuItem
+            // 
+            this.указатьDToolStripMenuItem.Name = "указатьDToolStripMenuItem";
+            this.указатьDToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
+            this.указатьDToolStripMenuItem.Text = "Указать D";
+            this.указатьDToolStripMenuItem.Click += new System.EventHandler(this.указатьDToolStripMenuItem_Click);
+            // 
             // считатьДанныеToolStripMenuItem
             // 
             this.считатьДанныеToolStripMenuItem.Name = "считатьДанныеToolStripMenuItem";
@@ -175,13 +182,6 @@
             this.рассчитатьToolStripMenuItem.Size = new System.Drawing.Size(80, 20);
             this.рассчитатьToolStripMenuItem.Text = "Рассчитать";
             this.рассчитатьToolStripMenuItem.Click += new System.EventHandler(this.рассчитатьToolStripMenuItem_Click);
-            // 
-            // указатьDToolStripMenuItem
-            // 
-            this.указатьDToolStripMenuItem.Name = "указатьDToolStripMenuItem";
-            this.указатьDToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
-            this.указатьDToolStripMenuItem.Text = "Указать D";
-            this.указатьDToolStripMenuItem.Click += new System.EventHandler(this.указатьDToolStripMenuItem_Click);
             // 
             // toolStripMenuItem1
             // 
